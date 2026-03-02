@@ -1,4 +1,4 @@
-package Ex1;
+package Ex1_Concurent_Threads;
 
 public class  Thread_Latteres extends Thread{
    @Override

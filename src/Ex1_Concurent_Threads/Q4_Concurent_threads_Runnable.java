@@ -1,4 +1,4 @@
-package Ex1;
+package Ex1_Concurent_Threads;
 
 public class Q4_Concurent_threads_Runnable {
     public static void main(String[] args){

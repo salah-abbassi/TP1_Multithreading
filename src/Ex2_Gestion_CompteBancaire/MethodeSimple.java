@@ -1,4 +1,4 @@
-package Ex2;
+package Ex2_Gestion_CompteBancaire;
 
 public class MethodeSimple {
     public static void main(String[] args) throws InterruptedException {

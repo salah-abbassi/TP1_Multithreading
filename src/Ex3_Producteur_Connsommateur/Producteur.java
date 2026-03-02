@@ -1,4 +1,4 @@
-package Ex3;
+package Ex3_Producteur_Connsommateur;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Producteur implements Runnable {

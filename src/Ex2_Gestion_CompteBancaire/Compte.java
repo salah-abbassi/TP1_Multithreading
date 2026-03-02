@@ -1,4 +1,4 @@
-package Ex2;
+package Ex2_Gestion_CompteBancaire;
 
 import java.util.concurrent.locks.ReentrantLock;
 

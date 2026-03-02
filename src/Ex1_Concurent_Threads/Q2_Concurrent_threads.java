@@ -1,4 +1,4 @@
-package Ex1;
+package Ex1_Concurent_Threads;
 
 
 public class Q2_Concurrent_threads {

@@ -1,4 +1,4 @@
-package Ex3;
+package Ex3_Producteur_Connsommateur;
 
 public class Consommateur implements Runnable {
     private final File<Integer> file;

@@ -1,4 +1,4 @@
-package Ex1;
+package Ex1_Concurent_Threads;
 
 public class Q7_JoinThreads {
         public static void main(String[] args) throws InterruptedException {
